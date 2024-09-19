@@ -1,0 +1,10 @@
+.container {
+    margin-top: 50px;
+}
+.img-thumbnail {
+    border-radius: 50%;
+}
+h1 {
+    font-family: 'Arial', sans-serif;
+    color: #007bff;
+}
